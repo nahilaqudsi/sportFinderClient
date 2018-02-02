@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Malang Sport Finder</string>
+    <string name="title_activity_display_maps">Show Map</string>
+    <string name="title_activity_detail_indor2">DetailIndor2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+</resources>
